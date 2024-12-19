@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.prod.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	iY.V3zjZLz0S6_u9VZYmycc9g_EYCnteJd9G.ijIyLU-1734642548-1.0.1.1-RnyHRW_QSPLc_g3MYNmq5ec51CAF1pQCyjB7ZRm3UZWPCtOKI7KLb.J4n1CjnnYzMjk7ZsKnzHoaJzMlKBXjPA
+cdn.prod.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	__cf_bm	FYz6O0GAUCKefeCEjl43T7qbRbT2TXTBOtRCY530eVc-1734642549-1.0.1.1-ZSvHh06YqW4SaJ8aC8kc1gNl9cUrCSff8syDuLjjAs1kCt7gBEHTn4bLITJXB2qikyXHgIIqt_7RzTRHU5medQ
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	ZlL.SF.XPsOQz3bhIrM69mvs4ysy3AxY4HuGlkcHPzA-1734642549331-0.0.1.1-604800000
+www.fates.world	TRUE	/	FALSE	1999999999	SameSite	None
+.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	Mk_rjfM11VHunps.GFgRlq7tI.fPvT54xEKbSA0C9as-1734642553-1.0.1.1-IIDD7Vkhdufw4UnBpZstQzN21dQPgI_JF6b7yOe3D6wkZSR.p2bgGe0et0ThmfGuzw_lG8Tot6V81HBrYfxnpg
+assets-global.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	WAz2VDBHIIGaMqf5w3gcPZv3Fsu6TuYsd4zcwmShgiU-1734642554-1.0.1.1-nDyf817wT8Ps7POXLLgLmNZQbbjkfy2CW0J5x4goCN2cO6GcOWhSiTWQiKW4UZAr
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	GNwVPASsbD9vT._XaiJRI.mHX7L3_pAeSfpd1jq40z0-1734642554173-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
